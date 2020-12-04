@@ -64,8 +64,7 @@ class _InAppWebViewPageState extends State<InAppWebViewPage> {
               Expanded(
                 child: Container(
                   child: InAppWebView(
-                      initialUrl: "https://vigilant-austin-3675d7.netlify.app/",
-                      // initialUrl: "https://tender-darwin-dce586.netlify.app/",
+                      initialUrl: "https://blockaded-battle.000webhostapp.com/",
                       initialOptions: InAppWebViewGroupOptions(
                         crossPlatform: InAppWebViewOptions(
                           mediaPlaybackRequiresUserGesture: false,
