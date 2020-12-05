@@ -7,7 +7,6 @@ Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   await Permission.camera.request();
-  await Permission.microphone.request();
 
   runApp(MyApp());
 }
