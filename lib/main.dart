@@ -7,6 +7,8 @@ Future main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   await Permission.camera.request();
+  await Permission.location.request();
+
 
   runApp(MyApp());
 }
