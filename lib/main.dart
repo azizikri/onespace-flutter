@@ -63,7 +63,7 @@ class _InAppWebViewPageState extends State<InAppWebViewPage> {
               Expanded(
                 child: Container(
                   child: InAppWebView(
-                      initialUrl: "https://blockaded-battle.000webhostapp.com/",
+                      initialUrl: "https://onesmk1depok.000webhostapp.com/",
                       initialOptions: InAppWebViewGroupOptions(
                         crossPlatform: InAppWebViewOptions(
                           mediaPlaybackRequiresUserGesture: false,
